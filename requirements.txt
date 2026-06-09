@@ -1,0 +1,22 @@
+# Slide parsing
+python-pptx==1.0.2
+PyMuPDF==1.27.2.3
+
+# Embeddings & Vector Store
+sentence-transformers==5.5.1
+chromadb==1.5.9
+torch==2.11.0
+transformers==5.10.2
+huggingface_hub==1.18.0
+
+# LLM integration
+ollama==0.6.2
+requests==2.32.3
+
+# UI
+streamlit==1.37.1
+
+# Data processing
+pandas==2.2.2
+numpy==1.26.4
+Pillow==10.4.0
